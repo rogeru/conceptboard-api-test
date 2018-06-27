@@ -1,0 +1,15 @@
+{
+  "conceptboard": {
+    "domain": "https://circuitsandbox.conceptboard.com/cbapi",
+    "authorize_url": "/oauth2/authorize",
+    "token_url": "/oauth2/token",
+    "client_id": "...",
+    "client_secret": "..."
+  },
+  "app": {
+      "host": "https://localhost",
+      "port": 7200,
+      "cert": "...",
+      "key": "..."
+  }
+}
