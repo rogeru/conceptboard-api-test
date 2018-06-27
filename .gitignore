@@ -6,7 +6,7 @@ logs
 node_modules
 
 # Configuration file
-config.json
+config-override.json
 
 # OS X
 .DS_Store
